@@ -2,7 +2,7 @@
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--12-blue)
 ![Maintenance](https://img.shields.io/badge/Maintenance-Active-brightgreen)
-![Skills](https://img.shields.io/badge/Skills-6-orange)
+![Skills](https://img.shields.io/badge/Skills-7-orange)
 ![License](https://img.shields.io/badge/License-Multiple-yellow)
 
 A curated collection of skills, tools, and utilities crafted by JerryKing.  
@@ -114,6 +114,25 @@ An AI-powered travel planning system that generates comprehensive travel itinera
 
 ---
 
+### 🎁 Gift Recommender
+> **智能送礼建议 Agent Skill - 在任何场合送出最合适的礼物**
+
+An AI-powered gift recommendation system that helps users make perfect gift decisions for any occasion. Covers Chinese holidays, sensitive scenarios, international gift-giving etiquette, and cultural taboos.
+
+**Key Features:**
+- 🎊 **30+ Chinese holidays** including traditional, digital-implication, and modern holidays
+- 🎯 **17 sensitive scenarios** like seeking favors from leaders, clients, doctors, teachers
+- 🌍 **12 international regions** covering Japan, Korea, Russia, Southeast Asia, Middle East, etc.
+- 💰 **Gift money guide** for 7 occasions with relationship × city-tier matrix
+- 🚫 **25+ cultural taboos** including items, numbers, colors, and flowers
+- 🔄 **Return gift guide** with timing, value ratio, and conversation scripts
+- 📦 **8 gift categories** with brand recommendations and price references
+- 💬 **6 conversation styles** auto-adapted to different scenarios
+
+**🔗 Repository:** [gift-recommender](https://github.com/MRLMRML/gift-recommender)
+
+---
+
 ## 🛠️ Installation & Usage
 
 Each skill is a standalone repository with its own documentation. Click the repository links above to access:
@@ -135,6 +154,7 @@ Each skill is a standalone repository with its own documentation. Click the repo
 | News Monitor | Breaking news detection | ✅ Active |
 | Food Craft | AI recipe generation | ✅ Active |
 | Travel Planner | Travel itinerary planning | ✅ Active |
+| Gift Recommender | Gift recommendation | ✅ Active |
 
 ---
 
